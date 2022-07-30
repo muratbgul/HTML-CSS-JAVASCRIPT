@@ -1,0 +1,8 @@
+.columns{
+    background: black;
+    color: white;
+    text-align: center;
+}
+.col-md-4{
+    background: rgb(179, 189, 206);
+}
